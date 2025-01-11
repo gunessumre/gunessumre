@@ -33,15 +33,7 @@ _Last updated:_
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&title_color=E0F8B5&text_color=CCCCFF&icon_color=&bg_color=E0F8B5&border_color=CCCCFF&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&background=E0F8B5&ring=CCCCFF&fire=CCCCFF&currStreakLabel=CCCCFF&sideNums=CCCCFF&dates=CCCCFF&stroke=CCCCFF&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&title_color=CCCCFF&text_color=CCCCFF&bg_color=E0F8B5&border_color=CCCCFF&hide_border=true)
-
----
 
 ## 🌸 Featured Projects
 Here are some of the projects I’m proud of:
