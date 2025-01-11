@@ -54,9 +54,6 @@ Feel free to connect with me or explore my projects. 🌸
 
 ---
 
-<img src="https://i.imgur.com/SSCMbGX.jpg" alt="Footer Image" style="width: 100%; display: block; margin: 0 auto;">
-
-
 
 
 
